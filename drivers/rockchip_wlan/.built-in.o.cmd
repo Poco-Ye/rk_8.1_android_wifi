@@ -1,0 +1,1 @@
+cmd_drivers/net/wireless/rockchip_wlan/built-in.o :=  ./../prebuilts/gcc/linux-x86/aarch64/gcc-linaro-6.3.1-2017.05-x86_64_aarch64-linux-gnu/bin/aarch64-linux-gnu-ld -EL    -r -o drivers/net/wireless/rockchip_wlan/built-in.o drivers/net/wireless/rockchip_wlan/wifi_sys/rkwifi_sys_iface.o drivers/net/wireless/rockchip_wlan/rkwifi/rk_wifi_config.o 
